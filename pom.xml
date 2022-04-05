@@ -90,19 +90,19 @@
         <dependency>
             <groupId>org.springframework.security</groupId>
             <artifactId>spring-security-config</artifactId>
-            <version>4.1.0.RELEASE</version>
+            <version>5.2.14.RELEASE</version>
         </dependency>
         <!-- https://mvnrepository.com/artifact/org.springframework.security/spring-security-core -->
         <dependency>
             <groupId>org.springframework.security</groupId>
             <artifactId>spring-security-core</artifactId>
-            <version>4.1.0.RELEASE</version>
+            <version>5.2.14.RELEASE</version>
         </dependency>
         <!-- https://mvnrepository.com/artifact/org.springframework.security/spring-security-web -->
         <dependency>
             <groupId>org.springframework.security</groupId>
             <artifactId>spring-security-web</artifactId>
-            <version>4.1.0.RELEASE</version>
+            <version>5.2.14.RELEASE</version>
         </dependency>
         <dependency>
             <groupId>org.slf4j</groupId>
@@ -125,7 +125,7 @@
         <dependency>
             <groupId>org.springframework.data</groupId>
             <artifactId>spring-data-jpa</artifactId>
-            <version>1.10.2.RELEASE</version>
+            <version>1.11.12.RELEASE</version>
         </dependency>
         <!-- https://mvnrepository.com/artifact/org.hibernate/hibernate-core -->
         <dependency>
@@ -178,7 +178,7 @@
         <dependency>
             <groupId>org.jacoco</groupId>
             <artifactId>jacoco-maven-plugin</artifactId>
-            <version>0.7.5.201505241946</version>
+            <version>0.8.8</version>
         </dependency>
         <dependency>
             <groupId>junit</groupId>
